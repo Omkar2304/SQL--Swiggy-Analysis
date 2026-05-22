@@ -6,7 +6,7 @@
 
 <body>
 
-<h1 align="center">🍔 SQL Swiggy Data Analysis</h1>
+<h1 align="center">🍔 SQL: Swiggy Data Analysis</h1>
 
 <h2>📌 Project Overview</h2>
 <p>
